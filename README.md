@@ -15,6 +15,7 @@
 - 🏗️ I've delivered **100+ projects** for **40+ clients** across **15+ countries**
 - 🌱 I'm currently deep-diving into **Agentic AI, LangGraph & Multimodal Workflows**
 - 📄 Published researcher — *Healthcare CHATBOT for Diabetic Patients Using Classification* (Springer)
+- 📫 Reach me at **deveshmishra9044@gmail.com**
 - ⚡ Fun fact: I've mentored **500+ professionals** in Data Science & ML
 
 ---
@@ -22,6 +23,20 @@
 ## 🚀 About Me
 
 AI & ML Engineer with **5+ years of experience** designing and deploying production-grade AI solutions and intelligent automation. Notable clients include **Google Singapore, CVS Health, Johnson & Johnson, Halliburton, Softchoice, and Deloitte**. Known for partnering with cross-functional teams to ship reliable, scalable solutions end-to-end.
+
+---
+
+## 🏢 Trusted By (Worked/Collaborated)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MAHLE_GmbH-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="MAHLE GmbH" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/CVS_Health-CC0000?style=for-the-badge&logo=cvs&logoColor=white" alt="CVS Health" />
+  <img src="https://img.shields.io/badge/Johnson_&_Johnson-D51900?style=for-the-badge&logo=johnsonandjohnson&logoColor=white" alt="Johnson & Johnson" />
+  <img src="https://img.shields.io/badge/Halliburton-CC0000?style=for-the-badge&logoColor=white" alt="Halliburton" />
+  <img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
+  <img src="https://img.shields.io/badge/Softchoice-00A1E0?style=for-the-badge&logoColor=white" alt="Softchoice" />
+</p>
 
 ---
 
@@ -62,7 +77,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **Data Scientist - AI & ML** | MAHLE | Jan 2024 – Present |
+| **Data Scientist - AI & ML** | MAHLE GmbH | Jan 2024 – Present |
 | **AI & ML Engineer** | Flex Data | Mar 2022 – Dec 2023 |
 | **Data Science & ML Instructor** | Coding Invaders | Jan 2023 – Oct 2023 |
 | **Data Scientist - ML & AI (Full-Stack)** | Freelance | Oct 2020 – Oct 2023 |
@@ -71,7 +86,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 ## 🏆 Key Highlights
 
-- 💰 Delivered **€200K in operational savings** within 6 months via a Ticket Classifier (92% accuracy)
+- 💰 Delivered **€200K in operational savings** within 6 months via a Ticket Classifier (92% accuracy) at **MAHLE GmbH**
 - 📄 Built an **AI-driven documentation assistant** cutting documentation time by **85%** and onboarding by **60%**
 - 💬 Built **MAHLE Chat** — an enterprise RAG document chat system with **60% higher retrieval accuracy**
 - 🔍 Deployed a large-scale **OCR pipeline** processing **60,000+ images** with **82% accuracy**
@@ -83,37 +98,4 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 ## 🎓 Education
 
 **B.Tech in Computer Science and Information Technology**
-MJP Rohilkhand University (NAAC A++) — 2018–2022
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdvz&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imdvz&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=imdvz&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
-
----
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imdvz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imdvz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imdvz.github.io/me)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deveshmishra9044@gmail.com)
+MJP Rohilkhand University (NAAC A++)
