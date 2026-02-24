@@ -143,9 +143,9 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdvz&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" />
 </p>
 
 ---
