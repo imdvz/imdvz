@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="100%">
 
-# Hi, I'm Devesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Devesh
 
 ### Data Scientist | ML Engineer | AI Engineer | GenAI, RAG, LLM & NLP Specialist
 
