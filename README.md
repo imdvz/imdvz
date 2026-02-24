@@ -15,7 +15,6 @@
 - 🏗️ I've delivered **100+ projects** for **40+ clients** across **15+ countries**
 - 🌱 I'm currently deep-diving into **Agentic AI, LangGraph & Multimodal Workflows**
 - 📄 Published researcher — *Healthcare CHATBOT for Diabetic Patients Using Classification* (Springer)
-- 📫 Reach me at **deveshmishra9044@gmail.com**
 - ⚡ Fun fact: I've mentored **500+ professionals** in Data Science & ML
 
 ---
@@ -97,5 +96,4 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 ## 🎓 Education
 
-**B.Tech in Computer Science and Information Technology**
-MJP Rohilkhand University (NAAC A++)
+**Bachelor of Technology** in **Computer Science & Information Technology (CS & IT)** from MJP Rohilkhand University, India (NAAC Accreditation: A++)
