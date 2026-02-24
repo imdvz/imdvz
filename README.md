@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" width="100%">
 
-# Hi 👋, I'm Devesh Mishra
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Devesh Mishra
 
 ### Data Scientist | ML Engineer | AI Engineer | GenAI, RAG, LLM & NLP Specialist
 
@@ -25,10 +25,10 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 ---
 
-## 🏢 Trusted By (Worked/Collaborated)
+## 🏢 Trusted By
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MAHLE_GmbH-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="MAHLE GmbH" />
+  <img src="https://img.shields.io/badge/MAHLE_GmbH-000000?style=for-the-badge&logoColor=white" alt="MAHLE GmbH" />
   <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
   <img src="https://img.shields.io/badge/CVS_Health-CC0000?style=for-the-badge&logo=cvs&logoColor=white" alt="CVS Health" />
   <img src="https://img.shields.io/badge/Johnson_&_Johnson-D51900?style=for-the-badge&logo=johnsonandjohnson&logoColor=white" alt="Johnson & Johnson" />
@@ -97,3 +97,21 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 ## 🎓 Education
 
 **Bachelor of Technology** in **Computer Science & Information Technology (CS & IT)** from MJP Rohilkhand University, India (NAAC Accreditation: A++)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdvz&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdvz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imdvz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imdvz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imdvz.github.io/me)
