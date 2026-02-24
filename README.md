@@ -2,9 +2,9 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Devesh
 
-### Data Scientist | ML Engineer | AI Engineer | GenAI, RAG, LLM & NLP Specialist
-
 <img align="right" alt="Coding" width="360" src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif">
+
+### AI & ML Engineer | Data Scientist | GenAI, RAG, LLM & NLP Specialist
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imdvz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
