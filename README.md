@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://media.tenor.com/-jv0OHYoG3cAAAAi/using-computer-monitors.gif">
 
-### AI & ML Engineer | GenAI, RAG, LLM & NLP Specialist
+### AI & ML Engineer | Data Scientist | GenAI, RAG, LLM & NLP Specialist
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imdvz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
