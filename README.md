@@ -136,7 +136,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 ## 🎓 Education
 
-**Bachelor of Technology** in **Computer Science & Information Technology (CS & IT)** from MJP Rohilkhand University, India (NAAC Accreditation: A++)
+**Bachelor of Technology** in **Computer Science & Information Technology (CS & IT)** from MJP Rohilkhand University, India (NAAC Accreditation: A++).
 
 ---
 
