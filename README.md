@@ -59,7 +59,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
     </td>
     <td align="center" width="33%">
       <a href="https://www.softchoice.com">
-        <img src="https://img.shields.io/badge/Softchoice-00A1E0?style=for-the-badge&logoColor=white" alt="Softchoice" height="30"/>
+        <img src="https://media.licdn.com/dms/image/v2/D563DAQFt-jrZqXoZtQ/image-scale_191_1128/B56ZWQvnIXGoAc-/0/1741890155327/softchoice_cover?e=1772726400&v=beta&t=cXoTETt1uNUgq3hkAfjSsWcjL6YGYennIuCbkAb7tY8" alt="Softchoice" height="30"/>
       </a>
     </td>
   </tr>
