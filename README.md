@@ -35,7 +35,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
     </td>
     <td align="center" width="33%">
       <a href="https://about.google">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="90"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="80"/>
       </a>
     </td>
     <td align="center" width="33%">
@@ -48,17 +48,17 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" width="33%">
       <a href="https://www.halliburton.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="45"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.deloitte.com">
-        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="70"/>
+        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="55"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.softchoice.com">
-        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="50"/>
+        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="35"/>
       </a>
     </td>
   </tr>
