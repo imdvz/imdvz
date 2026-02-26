@@ -35,7 +35,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
     </td>
     <td align="center" width="33%">
       <a href="https://about.google">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="100"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="90"/>
       </a>
     </td>
     <td align="center" width="33%">
@@ -48,17 +48,17 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" width="33%">
       <a href="https://www.halliburton.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="70"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="60"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.deloitte.com">
-        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="80"/>
+        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="70"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.softchoice.com">
-        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="70"/>
+        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="50"/>
       </a>
     </td>
   </tr>
@@ -66,7 +66,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" colspan="3">
       <a href="https://www.cvshealth.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CVS_Health_logo.svg/500px-CVS_Health_logo.svg.png" alt="CVS Health" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CVS_Health_logo.svg/500px-CVS_Health_logo.svg.png" alt="CVS Health" height="40"/>
       </a>
     </td>
   </tr>
