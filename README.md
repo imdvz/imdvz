@@ -31,7 +31,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" width="33%">
       <a href="https://www.mahle.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mahle.svg/3840px-Mahle.svg.png" alt="MAHLE GmbH" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mahle.svg/3840px-Mahle.svg.png" alt="MAHLE GmbH" height="30"/>
       </a>
     </td>
     <td align="center" width="33%">
