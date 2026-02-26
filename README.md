@@ -36,16 +36,16 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
     </td>
     <td align="center" width="33%">
       <a href="https://about.google">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png" alt="Google" height="45"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="50"/>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://www.jnj.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johnson_and_Johnson_logo.svg/440px-Johnson_and_Johnson_logo.svg.png" alt="Johnson & Johnson" height="45"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgydmdldGhxZ2RvaDB2MGloeTJ2NXBuOTdseGFhNXhwZWpsOTB6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4NgH0yZblZUjb3MQIs/giphy.gif" alt="Johnson & Johnson" height="60"/>
       </a>
     </td>
   </tr>
-  <tr><td colspan="3" height="20"></td></tr>
+  <tr><td colspan="3" height="25"></td></tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://www.halliburton.com">
@@ -63,7 +63,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
       </a>
     </td>
   </tr>
-  <tr><td colspan="3" height="20"></td></tr>
+  <tr><td colspan="3" height="25"></td></tr>
   <tr>
     <td align="center" colspan="3">
       <a href="https://www.cvshealth.com">
