@@ -30,7 +30,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" width="33%">
-      <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mahle.svg/3840px-Mahle.svg.png" alt="MAHLE GmbH" height="45"/>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mahle.svg/3840px-Mahle.svg.png" alt="MAHLE GmbH" height="50"/>
       </a>
     </td>
     <td align="center" width="33%">
@@ -48,7 +48,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" width="33%">
       <a href="https://www.halliburton.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Halliburton_logo.svg/500px-Halliburton_logo.svg.png" alt="Halliburton" height="35"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="35"/>
       </a>
     </td>
     <td align="center" width="33%">
