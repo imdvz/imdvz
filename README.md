@@ -27,21 +27,51 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 ## 🏢 Trusted By
 
-<p align="center">
-  <a href="https://www.mahle.com"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mahle_logo.svg" alt="MAHLE GmbH" height="40" style="margin: 10px 15px;"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://about.google"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" height="40" style="margin: 10px 15px;"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.cvshealth.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CVS_Health_logo.svg" alt="CVS Health" height="40" style="margin: 10px 15px;"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.jnj.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Johnson_and_Johnson_logo.svg" alt="Johnson & Johnson" height="40" style="margin: 10px 15px;"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.halliburton.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Halliburton_logo.svg" alt="Halliburton" height="40" style="margin: 10px 15px;"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.deloitte.com"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" alt="Deloitte" height="40" style="margin: 10px 15px;"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.softchoice.com"><img src="https://img.shields.io/badge/Softchoice-00A1E0?style=for-the-badge&logoColor=white" alt="Softchoice" height="30" style="margin: 10px 15px;"/></a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.mahle.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mahle_logo.svg/440px-Mahle_logo.svg.png" alt="MAHLE GmbH" height="45"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://about.google">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png" alt="Google" height="45"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.jnj.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johnson_and_Johnson_logo.svg/440px-Johnson_and_Johnson_logo.svg.png" alt="Johnson & Johnson" height="45"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.halliburton.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Halliburton_logo.svg/500px-Halliburton_logo.svg.png" alt="Halliburton" height="35"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.deloitte.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/440px-Deloitte.svg.png" alt="Deloitte" height="45"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.softchoice.com">
+        <img src="https://img.shields.io/badge/Softchoice-00A1E0?style=for-the-badge&logoColor=white" alt="Softchoice" height="30"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+  <tr>
+    <td align="center" colspan="3">
+      <a href="https://www.cvshealth.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CVS_Health_logo.svg/500px-CVS_Health_logo.svg.png" alt="CVS Health" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
