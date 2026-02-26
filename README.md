@@ -54,12 +54,12 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
     </td>
     <td align="center" width="33%">
       <a href="https://www.deloitte.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deloitte.svg/440px-Deloitte.svg.png" alt="Deloitte" height="45"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNhbmV4emQxd2Z5YnFuaTZza3oyMnY2c3pyY2FoYXl3NzRkenNqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9TJcIkuWrL0EJMQ36/giphy.gif" alt="Deloitte" height="45"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.softchoice.com">
-        <img src="https://media.licdn.com/dms/image/v2/D563DAQFt-jrZqXoZtQ/image-scale_191_1128/B56ZWQvnIXGoAc-/0/1741890155327/softchoice_cover?e=1772726400&v=beta&t=cXoTETt1uNUgq3hkAfjSsWcjL6YGYennIuCbkAb7tY8" alt="Softchoice" height="30"/>
+        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="30"/>
       </a>
     </td>
   </tr>
