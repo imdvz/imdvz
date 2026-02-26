@@ -30,17 +30,17 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" width="33%">
-      <a href="https://upload.wikimedia.org/wikipedia/commons/6/63/Mahle_logo_2020.png" alt="MAHLE GmbH" height="50"/>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mahle_logo.svg" alt="MAHLE GmbH" height="40"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://about.google">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="50"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="100"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.jnj.com">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgydmdldGhxZ2RvaDB2MGloeTJ2NXBuOTdseGFhNXhwZWpsOTB6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4NgH0yZblZUjb3MQIs/giphy.gif" alt="Johnson & Johnson" height="50"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgydmdldGhxZ2RvaDB2MGloeTJ2NXBuOTdseGFhNXhwZWpsOTB6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4NgH0yZblZUjb3MQIs/giphy.gif" alt="Johnson & Johnson" height="150"/>
       </a>
     </td>
   </tr>
@@ -48,17 +48,17 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" width="33%">
       <a href="https://www.halliburton.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="35"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Halliburton_logo.svg/3840px-Halliburton_logo.svg.png" alt="Halliburton" height="70"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.deloitte.com">
-        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="45"/>
+        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="80"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.softchoice.com">
-        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="30"/>
+        <img src="https://companieslogo.com/img/orig/SFTC.TO_BIG.D-5d8145ac.png?t=1720244493" alt="Softchoice" height="70"/>
       </a>
     </td>
   </tr>
@@ -66,7 +66,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
   <tr>
     <td align="center" colspan="3">
       <a href="https://www.cvshealth.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CVS_Health_logo.svg/500px-CVS_Health_logo.svg.png" alt="CVS Health" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CVS_Health_logo.svg/500px-CVS_Health_logo.svg.png" alt="CVS Health" height="50"/>
       </a>
     </td>
   </tr>
