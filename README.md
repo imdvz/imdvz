@@ -39,9 +39,9 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RhdmI5em1sOHpibWdmMGVicHR0MGNqYXRpdjRhMTR5Ync4am5nbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnoUnHxVaaVNWhO/giphy.gif" alt="Google" height="50"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://www.jnj.com">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgydmdldGhxZ2RvaDB2MGloeTJ2NXBuOTdseGFhNXhwZWpsOTB6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4NgH0yZblZUjb3MQIs/giphy.gif" alt="Johnson & Johnson" height="60"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgydmdldGhxZ2RvaDB2MGloeTJ2NXBuOTdseGFhNXhwZWpsOTB6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4NgH0yZblZUjb3MQIs/giphy.gif" alt="Johnson & Johnson" height="50"/>
       </a>
     </td>
   </tr>
