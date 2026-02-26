@@ -28,13 +28,19 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 ## 🏢 Trusted By
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MAHLE_GmbH-000000?style=for-the-badge&logoColor=white" alt="MAHLE GmbH" />
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
-  <img src="https://img.shields.io/badge/CVS_Health-CC0000?style=for-the-badge&logo=cvs&logoColor=white" alt="CVS Health" />
-  <img src="https://img.shields.io/badge/Johnson_&_Johnson-D51900?style=for-the-badge&logo=johnsonandjohnson&logoColor=white" alt="Johnson & Johnson" />
-  <img src="https://img.shields.io/badge/Halliburton-CC0000?style=for-the-badge&logoColor=white" alt="Halliburton" />
-  <img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
-  <img src="https://img.shields.io/badge/Softchoice-00A1E0?style=for-the-badge&logoColor=white" alt="Softchoice" />
+  <a href="https://www.mahle.com"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mahle_logo.svg" alt="MAHLE GmbH" height="40" style="margin: 10px 15px;"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://about.google"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" height="40" style="margin: 10px 15px;"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.cvshealth.com"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CVS_Health_logo.svg" alt="CVS Health" height="40" style="margin: 10px 15px;"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.jnj.com"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Johnson_and_Johnson_logo.svg" alt="Johnson & Johnson" height="40" style="margin: 10px 15px;"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.halliburton.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Halliburton_logo.svg" alt="Halliburton" height="40" style="margin: 10px 15px;"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.deloitte.com"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" alt="Deloitte" height="40" style="margin: 10px 15px;"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.softchoice.com"><img src="https://img.shields.io/badge/Softchoice-00A1E0?style=for-the-badge&logoColor=white" alt="Softchoice" height="30" style="margin: 10px 15px;"/></a>
 </p>
 
 ---
