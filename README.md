@@ -53,7 +53,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
     </td>
     <td align="center" width="33%">
       <a href="https://www.deloitte.com">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNhbmV4emQxd2Z5YnFuaTZza3oyMnY2c3pyY2FoYXl3NzRkenNqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9TJcIkuWrL0EJMQ36/giphy.gif" alt="Deloitte" height="45"/>
+        <img src="https://brandingmonitor.pl/wp-content/uploads/2016/06/nowe-logo-deloitte.gif" alt="Deloitte" height="45"/>
       </a>
     </td>
     <td align="center" width="33%">
