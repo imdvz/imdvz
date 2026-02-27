@@ -10,12 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=imdvz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I'm currently working as a **Data Scientist at MAHLE GmbH**, building production-grade AI solutions
-- 🧠 I specialize in **ML, GenAI, NLP, LLM Applications, RAG Systems & AI-driven Document Processing**
-- 🏗️ I've delivered **100+ projects** for **40+ clients** across **15+ countries**
-- 🌱 I'm currently deep-diving into **Agentic AI, LangGraph & Multimodal Workflows**
-- 📄 Published researcher — *Healthcare CHATBOT for Diabetic Patients Using Classification* (Springer)
-- ⚡ Fun fact: I've mentored **500+ professionals** in Data Science & ML
+- 🔭 I'm currently working as a **Data Scientist at MAHLE GmbH**, building production-grade AI solutions.
+- 🧠 I specialize in **ML, GenAI, NLP, LLM Applications, RAG Systems & AI-driven Document Processing**.
+- 🏗️ I've delivered **100+ projects** for **40+ clients** across **15+ countries**.
+- 🌱 I'm currently deep-diving into **Agentic AI, LangGraph & Multimodal Workflows**.
+- 📄 Published researcher — *Healthcare CHATBOT for Diabetic Patients Using Classification* ([Springer](https://link.springer.com/chapter/10.1007/978-981-19-0707-4_39)).
+- ⚡ Fun fact: I've mentored **500+ professionals** in Data Science & ML.
 
 ---
 
