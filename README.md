@@ -14,7 +14,7 @@
 - 🧠 I specialize in **ML, GenAI, NLP, LLM Applications, RAG Systems & AI-driven Document Processing**.
 - 🏗️ I've delivered **100+ projects** for **40+ clients** across **15+ countries**.
 - 🌱 I'm currently deep-diving into **Agentic AI, LangGraph & Multimodal Workflows**.
-- 📄 Published researcher — *Healthcare CHATBOT for Diabetic Patients Using Classification* ([Springer](https://link.springer.com/chapter/10.1007/978-981-19-0707-4_39)).
+- 📄 Published researcher - *Healthcare CHATBOT for Diabetic Patients Using Classification* ([Springer](https://link.springer.com/chapter/10.1007/978-981-19-0707-4_39)).
 - ⚡ Fun fact: I've mentored **500+ professionals** in Data Science & ML.
 
 ---
@@ -152,10 +152,10 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **Data Scientist - AI & ML** | MAHLE GmbH | Jan 2024 – Present |
-| **AI & ML Engineer** | Flex Data | Mar 2022 – Dec 2023 |
-| **Data Science & ML Instructor** | Coding Invaders | Jan 2023 – Oct 2023 |
-| **Data Scientist - ML & AI (Full-Stack)** | Freelance | Oct 2020 – Oct 2023 |
+| **Data Scientist - AI & ML** | MAHLE GmbH | Jan 2024 - Present |
+| **AI & ML Engineer** | Flex Data | Mar 2022 - Dec 2023 |
+| **Data Science & ML Instructor** | Coding Invaders | Jan 2023 - Oct 2023 |
+| **Data Scientist - ML & AI (Full-Stack)** | Freelance | Oct 2020 - Oct 2023 |
 
 ---
 
@@ -163,7 +163,7 @@ AI & ML Engineer with **5+ years of experience** designing and deploying product
 
 - 💰 Delivered **€200K in operational savings** within 6 months via a Ticket Classifier (92% accuracy) at **MAHLE GmbH**
 - 📄 Built an **AI-driven documentation assistant** cutting documentation time by **85%** and onboarding by **60%**
-- 💬 Built **MAHLE Chat** — an enterprise RAG document chat system with **60% higher retrieval accuracy**
+- 💬 Built **MAHLE Chat** - an enterprise RAG document chat system with **60% higher retrieval accuracy**
 - 🔍 Deployed a large-scale **OCR pipeline** processing **60,000+ images** with **82% accuracy**
 - 📊 Productionized a **Predictive Maintenance model** reducing machine failures by **30%**
 - 🎓 Mentored **500+ professionals** in Data Science & ML with **4.3+/5 avg feedback**
